@@ -125,3 +125,14 @@ git tag -a TAG -m "MENSAGEM"
 
 
 git tag -d TAG
+
+
+git remote add REMOTE_REPO CAMINHO_REPO
+
+
+git branch -M BRANCH_NAME
+
+
+git push -u REMOTE_REPO BRANCH_NAME
+
+
