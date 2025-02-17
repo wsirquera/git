@@ -2,3 +2,5 @@ Adicionando arquivo main.txt
 Nova linha arquivo main
 
 outra linha
+
+nova linha
