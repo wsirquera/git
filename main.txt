@@ -1,2 +1,7 @@
 Adicionando arquivo main.txt
+<<<<<<< HEAD
 Nova linha arquivo main
+=======
+
+outra linha
+>>>>>>> 0e99d2750d9b55a1b90830606993b38f1471acc7
