@@ -4,3 +4,5 @@ Nova linha arquivo main
 outra linha
 
 nova linha
+
+outro teste de conflito
