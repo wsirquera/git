@@ -10,3 +10,5 @@ vamos de novo
 
 outro teste de conflito
 >>>>>>> 8ed9feb43ff7e8ee50ed6fc46c5ab3c96295b903
+
+Outra linha
