@@ -3,13 +3,13 @@
 ## Comandos comuns usados em situações diversas
 
 ### Iniciar a area de trabalho
-| *Comando* | *Descrição* |
+| **Comando** | **Descrição** |
 |-----------|-------------|
 | `clone` | Clona um repositório em um novo diretório. |
 | `init` | Cria um repositório Git vazio ou reinicia um ja existente. |
 
 ### Trabalhando com alterações atuais
-| *Comando* | *Descrição* |
+| **Comando** | **Descrição** |
 |-----------|-------------|
 | `add` | Adiciona o conteúdo do arquivo ao incice.|
 | `mv`| Move ou renomeia um arquivo, diretório ou symlink. |
@@ -17,7 +17,7 @@
 | `rm` | Remove arquivos da arvore de trabalho e do indice. |
 
 ### Examina o historico e o estado
-| *Comando* | *Descrição* |
+| **Comando** | **Descrição** |
 |-----------|-------------|
 | `bisect` | Utiliza busca binaria para localizar o commit que introduziu o bug. |
 | `diff` | Apresenta alterações entre os commits, commit e arvore de trabalho, etc. |
@@ -27,7 +27,7 @@
 | `status` | Apresenta o estado da arvore de trabalho. |
 
 ### Crescer, marcar e ajustar seu histórico comum
-| *Comando* | *Descrição* |
+| **Comando** | **Descrição** |
 |-----------|-------------|
 | `branch` | Lista, cria ou deleta branches. |
 | `commit` | Grava alterações no repositório. |
@@ -38,7 +38,7 @@
 | `tag` | Cria, lista, deleta ou verifica a tag de um objeto assinado com GPG. |
 
 ### Colaboração
-| *Comando* | *Descrição* |
+| **Comando** | **Descrição** |
 |-----------|-------------|
 | `fetch` | Baixa objetos e referencias de outro repositório. |
 | `pull` | Busca e integra com outro repositório ou branch local. |
