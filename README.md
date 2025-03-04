@@ -1,6 +1,6 @@
 # Material de consulta 
 
-## Comandos comuns usados em situações diversas:
+## Comandos comuns usados em situações diversas
 
 ### Iniciar a area de trabalho
 | *Comando* | *Descrição* |
