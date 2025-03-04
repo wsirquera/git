@@ -3,36 +3,36 @@
 ## Comandos comuns usados em situações diversas:
 
 ### Iniciar a area de trabalho
-> 'clone'     Clona um repositório em um novo diretório
-> 'init'      Cria um repositório Git vazio ou reinicia um ja existente
+> `clone`     Clona um repositório em um novo diretório.<br>
+> `init`      Cria um repositório Git vazio ou reinicia um ja existente.<br>
 
 ### Trabalhando com alterações atuais
-   <p>add       Adiciona o conteúdo do arquivo ao incice
-   <p>mv        Move ou renomeia um arquivo, diretório ou symlink
-   <p>restore   Restaura arquivos da arvore de arquivos
-   <p>rm        Remove arquivos da arvore de trabalho e do indice
+   add       Adiciona o conteúdo do arquivo ao incice.<br>
+   mv        Move ou renomeia um arquivo, diretório ou symlink.<br>
+   restore   Restaura arquivos da arvore de arquivos.<br>
+   rm        Remove arquivos da arvore de trabalho e do indice.<br>
 
 ### Examina o historico e o estado
-   <p>bisect    Utiliza busca binaria para localizar o commit que introduziu o bug
-   <p>diff      Apresenta alterações entre os commits, commit e arvore de trabalho, etc
-   <p>grep      Imprime linhas que corresponder a um padrão
-   <p>log       Apresenta os logs dos commit
-   <p>show      Apresenta varios tipos de objetos
-   <p>status    Apresenta o estado da arvore de trabalho
+   bisect    Utiliza busca binaria para localizar o commit que introduziu o bug.<br>
+   diff      Apresenta alterações entre os commits, commit e arvore de trabalho, etc.<br>
+   grep      Imprime linhas que corresponder a um padrão.<br>
+   log       Apresenta os logs dos commit.<br>
+   show      Apresenta varios tipos de objetos.<br>
+   status    Apresenta o estado da arvore de trabalho.<br>
 
 ### Crescer, marcar e ajustar seu histórico comum
-   <p>branch    Lista, cria ou deleta branches
-   <p>commit    Grava alterações no repositório
-   <p>merge     Agrupa duas ou mais historicos de desenvolvimento
-   <p>rebase    Reaplicar commits em cima de outra dica base
-   <p>reset     Redefine o HEAD atual a um estado especifico
-   <p>switch    Muda de branch
-   <p>tag       Cria, lista, deleta ou verifica a tag de um objeto assinado com GPG
+   branch    Lista, cria ou deleta branches.<br>
+   commit    Grava alterações no repositório.<br>
+   merge     Agrupa duas ou mais historicos de desenvolvimento.<br>
+   rebase    Reaplicar commits em cima de outra dica base.<br>
+   reset     Redefine o HEAD atual a um estado especifico.<br>
+   switch    Muda de branch.<br>
+   tag       Cria, lista, deleta ou verifica a tag de um objeto assinado com GPG.<br>
 
 ### Colaboração
-   <p>fetch     Baixa objetos e referencias de outro repositório
-   <p>pull      Busca e integra com outro repositório ou branch local
-   <p>push      Atualiza referencias remotas junto com objetos associados
+   fetch     Baixa objetos e referencias de outro repositório.<br>
+   pull      Busca e integra com outro repositório ou branch local.<br>
+   push      Atualiza referencias remotas junto com objetos associados.<br>
 
 
 ### Comandos uteis ja utilizados (Reload no cerebro)
