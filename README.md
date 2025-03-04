@@ -3,11 +3,8 @@
 ## Comandos comuns usados em situações diversas:
 
 ### Iniciar a area de trabalho
-> `clone`<br>
->> Clona um repositório em um novo diretório.<br>
-
->`init`<br>
->>Cria um repositório Git vazio ou reinicia um ja existente.<br>
+| `clone` | Clona um repositório em um novo diretório. |
+| `init` | Cria um repositório Git vazio ou reinicia um ja existente. |
 
 ### Trabalhando com alterações atuais
    add       Adiciona o conteúdo do arquivo ao incice.<br>
