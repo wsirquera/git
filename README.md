@@ -3,7 +3,7 @@
 ## Comandos comuns usados em situações diversas:
 
 ### Iniciar a area de trabalho
-   <p>clone     Clona um repositório em um novo diretório
+   ''' clone     Clona um repositório em um novo diretório
    <p>init      Cria um repositório Git vazio ou reinicia um ja existente
 
 ### Trabalhando com alterações atuais
