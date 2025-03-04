@@ -5,7 +5,8 @@
 ### Iniciar a area de trabalho
 > `clone`<br>
 >> Clona um repositório em um novo diretório.<br>
-> `init`<br>
+
+>`init`<br>
 >>Cria um repositório Git vazio ou reinicia um ja existente.<br>
 
 ### Trabalhando com alterações atuais
